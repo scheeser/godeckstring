@@ -1,3 +1,3 @@
-module github.com/scheeser/godeckstrings
+module github.com/scheeser/godeckstring
 
 go 1.13
