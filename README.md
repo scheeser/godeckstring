@@ -29,8 +29,8 @@ import (
 func main() {
 	deckstring := "AAECAaoIBO/3AuGoA+O0A9PAAw2cArSRA7SXA8aZA7ulA8+lA9SlA9WlA/mlA7etA7mtA/6uA6qvAwA="
 
-    decodedDeck, _ := godeckstring.Decode(deckstring)
-    fmt.Printf("%+v\n", decodedDeck)
+	decodedDeck, _ := godeckstring.Decode(deckstring)
+	fmt.Printf("%+v\n", decodedDeck)
 }
 ```
 
